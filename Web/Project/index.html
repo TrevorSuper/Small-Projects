@@ -3,12 +3,26 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport"
-    content="width=device-width,
-    initial-scale=1.0" />
-    <title>Document</title>
+    content="width=device-width, initial-scale=1.0" />
+    <title>Home Page</title>
   </head>
   <body>
-    <j>Catch me if you can</j>
+    <a href="about.html">About</a>
+    <h1>Catch me if you can</h1>
     <p>I intend to</p>
+    <button onclick='alert("HTML - Structure\nCSS - Style\nJavascript - Functionality")'>How it all comes together</button>
+    <button onclick='alert("Inline Javascript is bad as it takes too long to write\nIt is written on a per scriptable action basis")'>Inline Javascript</button>
+    <button class="btn">Internal Javascript</button>
+    <button class="extbtn">External Javascript</button>
+    <div><img src="The Real World is Not for the Lazy.jpg" alt="Lazy"/></div>
+    <div><a href="https://github.com/trevorsuper">This is an anchor tag, it is used to redirect to other webpages</a></div>
+    <script>
+      document.querySelectorAll('.btn').forEach((item) => {
+        item.addEventListener('click', () => {
+          alert('Internal Javascript is better than inline Javascript\nInternal Javascript only affects the scriptable actions of the web page it is on\nscript tags should at the bottom of the file so html can load')
+        })
+      })
+    </script>
+    <script src="./app.js"></script>
   </body>
 </html>

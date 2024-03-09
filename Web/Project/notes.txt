@@ -1,3 +1,0 @@
-HTML - Structure
-CSS - Style
-JavaScript - Functionality
