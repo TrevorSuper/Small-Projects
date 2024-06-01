@@ -1,0 +1,59 @@
+Enter
+Project02-input.txt
+You entered an existing file: Project02-input.txt
+
+In aphabetical order, the frequency of the letters in this file are:
+A: 634
+B: 147
+C: 563
+D: 446
+E: 1511
+F: 626
+G: 426
+H: 249
+I: 862
+J: 21
+K: 152
+L: 425
+M: 370
+N: 613
+O: 704
+P: 539
+Q: 7
+R: 688
+S: 802
+T: 1115
+U: 306
+V: 209
+W: 26
+X: 532
+Y: 171
+Z: 34
+
+In ascending order, the frequency of the letters in this file are:
+Q: 7
+J: 21
+W: 26
+Z: 34
+B: 147
+K: 152
+Y: 171
+V: 209
+H: 249
+U: 306
+M: 370
+L: 425
+G: 426
+D: 446
+X: 532
+P: 539
+C: 563
+N: 613
+F: 626
+A: 634
+R: 688
+O: 704
+S: 802
+I: 862
+T: 1115
+E: 1511
