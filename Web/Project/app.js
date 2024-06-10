@@ -110,4 +110,25 @@ console.log("JavaScript is dynamically typed"); // writes to the console. Most p
 // .push() shifts to the end of the array
 // .pop() removes from the end of the array
 // .splice(param1, param2) grab specific items out of the array, mutates the original array. useful to know for react
-// splice takes to parameters the index, and how many items to remove from the original array
+// splice takes to parameters the index, and how many items to remove from the original 
+// 
+// both represent no value
+// undefined - javascript can not find value for this
+// variable without value
+// missing function arguments
+// missing object properties
+// 
+// null - developer sets the value
+// 
+// javascript checks for and uses local variables before checking global variables
+// 
+// Functions are first class objects - stored in a variable
+// (expression), passed as an argument to another function, return
+// from the function (closure)
+// 
+// Higher Order Function - accepts another function as an argument 
+// or returns another function as a result
+// 
+// Callback function - passed to a function as an argument and executed inside that function
+// 
+// 
