@@ -1,1 +1,0 @@
-This project 'Project' uses Vanilla JavaScript, HTML, and CSS
