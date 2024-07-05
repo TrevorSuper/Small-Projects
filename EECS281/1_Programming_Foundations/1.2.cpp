@@ -40,4 +40,5 @@ int main(){
   (regardless of type) can be assigned to a null pointer value using the nullptr keyword
   Similar to pointers that are default initialized without a value, dereferencing a nullptr also results in undefined behavior.
   */
+  return 0;
 }
